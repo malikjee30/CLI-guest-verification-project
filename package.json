@@ -1,0 +1,21 @@
+{
+  "name": "02-g_nasir-guest-verification-cli",
+  "version": "1.0.0",
+  "description": "we create guest verification invitation from this project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghulam nasir",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
